@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /guestbook
+Disallow: /m/guestbook
+Disallow: /manage
+Disallow: /owner
+Disallow: /admin
+Disallow: /search
+Disallow: /m/search
+
+Sitemap: https://www.issueflash.fun/rss
